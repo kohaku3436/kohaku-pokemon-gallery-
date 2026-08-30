@@ -3,3 +3,10 @@
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 20px;
 }
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  margin: 20px auto;
+}
